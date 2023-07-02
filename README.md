@@ -1,7 +1,7 @@
 ### Hi there 👋 My name is Evan!
 I am a multi-decade veteran of the software industry, with experience across a host of industries and disciplines from game development to embedded software and enterprise business applications.
 
-#### <ins>My Superpower</ins> 🦸‍♂️
+#### <ins>My Superpower</ins> 🦸‍♂
 I am a voracious reader and lifelong student. I am a rapid learner and can go from "Hello World" to "Minimum-Viable-Product" faster than most.
 
 #### <ins>Current Projects</ins> ⚒
