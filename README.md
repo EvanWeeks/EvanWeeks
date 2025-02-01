@@ -18,7 +18,6 @@ I am a voracious reader and lifelong student. I am a rapid learner and can go fr
 #### <ins>How To Reach Me</ins> 📨
 I can be reached at evan -dot- weeks -at- gmail -dot- com.
 
-Here's my <a rel="me" href="https://hachyderm.io/@innoxiosmors">Mastodon</a> profile.
 
 <!--
 **EvanWeeks/EvanWeeks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
